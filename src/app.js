@@ -1,11 +1,12 @@
 console.log("Merhaba Kodlama.io")
-
+//var ı artık babaanneler bile kullanmiyor
 //JS type safe değildir
 let dolarBugun = 9.30
 
 let dolarDun = 9.20
 dolarDun = "9.20"
 {
+    //let block casedir 
     let dolarDun = 9.10
 }
 
